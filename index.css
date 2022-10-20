@@ -1,0 +1,24 @@
+
+
+.parent{
+    position: relative;
+    top: 0px;
+}
+
+
+.above-fold{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -30%);
+}
+
+.title{
+    position: absolute;
+    top: 0%;
+    width: auto;
+    left: 0%;
+    right: 0%;
+    color: aliceblue;
+    font-family: 'Allura', cursive;
+}
